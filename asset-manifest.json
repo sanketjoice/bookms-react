@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookms-react/static/css/main.4b8bf290.css",
+    "main.js": "/bookms-react/static/js/main.d7133160.js",
+    "index.html": "/bookms-react/index.html",
+    "main.4b8bf290.css.map": "/bookms-react/static/css/main.4b8bf290.css.map",
+    "main.d7133160.js.map": "/bookms-react/static/js/main.d7133160.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b8bf290.css",
+    "static/js/main.d7133160.js"
+  ]
+}
